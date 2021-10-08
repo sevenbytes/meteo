@@ -1,0 +1,2 @@
+// package meteo
+package meteo
